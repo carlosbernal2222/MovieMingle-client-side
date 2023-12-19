@@ -1,4 +1,4 @@
-# MovieMingle Client-Side Project
+# MovieMingle Client-Side
 
 ## Project Overview
 MovieMingle is a dynamic web application for movie enthusiasts. It allows users to browse, watch trailers, and engage with a vast collection of movies. Built using React, it offers a responsive and interactive user experience.
